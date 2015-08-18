@@ -25,14 +25,14 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     regString=[NSMutableString stringWithCapacity:10];
-    self.resultField.text=@"0";
+    self.resultField.text=@"";
 }
 
 
 
 
 
-- (IBAction)calTypeButton:(id)sender {
+- (IBAction)calNumButton:(id)sender {
     UIButton* calTypeBtn = sender;
     NSString *name= [calTypeBtn titleForState:UIControlStateNormal];
     //    NSLog(@"name=%@",name);
@@ -40,7 +40,7 @@
     self.resultField.text=regString;
 }
 
-- (IBAction)cal:(id)sender {
+- (IBAction)calTypeButton:(id)sender {
     UIButton* btn = sender;
     NSString *name= [btn titleForState:UIControlStateNormal];
     if([name isEqualToString:@"+"])
@@ -79,7 +79,7 @@
     [regString setString:@""];
 //  别忘了把result设为0，否则点击等号会出错
     result = 0;
-    self.resultField.text=@"0";
+    self.resultField.text=@"";
 }
 
 - (void)didReceiveMemoryWarning {

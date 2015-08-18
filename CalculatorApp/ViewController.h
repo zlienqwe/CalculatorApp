@@ -14,12 +14,12 @@
 
 enum CalType{ADD=10,SUB};
 
-- (IBAction)calTypeButton:(id)sender;
+- (IBAction)calNumButton:(id)sender;
 
 
 - (IBAction)resultButton:(id)sender;
 
-- (IBAction)cal:(id)sender;
+- (IBAction)calTypeButton:(id)sender;
 
 
 - (IBAction)clearButton:(id)sender;

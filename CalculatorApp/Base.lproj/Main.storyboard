@@ -22,7 +22,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="calTypeButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="wO9-VX-1SJ"/>
+                                    <action selector="calNumButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="PpJ-6v-md3"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6ox-65-C8q">
@@ -31,7 +31,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="calTypeButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="LR9-xR-QVe"/>
+                                    <action selector="calNumButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="YSR-9K-5Yb"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0NF-Qh-eW6">
@@ -40,7 +40,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="calTypeButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="HEJ-42-BJb"/>
+                                    <action selector="calNumButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="XWS-C9-WH0"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qob-9P-1qt">
@@ -49,7 +49,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="calTypeButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="8HB-5t-89e"/>
+                                    <action selector="calNumButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="yDf-gP-nI3"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="FuQ-C9-oSU">
@@ -58,7 +58,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="calTypeButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="Y9O-lT-YWG"/>
+                                    <action selector="calNumButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="euY-JB-ugr"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tDJ-0i-MYf">
@@ -67,7 +67,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="calTypeButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="TwJ-cC-tCq"/>
+                                    <action selector="calNumButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="oVp-mS-VS4"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mPW-ga-o79">
@@ -76,7 +76,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="calTypeButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="3dr-2z-lp0"/>
+                                    <action selector="calNumButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="Gda-8V-N2I"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="klt-Ch-w1m">
@@ -85,7 +85,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="calTypeButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="P9f-cW-A2j"/>
+                                    <action selector="calNumButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="PKh-PY-6DL"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Jy0-L3-HEx">
@@ -94,7 +94,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="calTypeButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="KXJ-eT-DwY"/>
+                                    <action selector="calNumButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="zVf-a7-9KM"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aC5-k3-POk">
@@ -103,7 +103,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="cal:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="Wj9-VQ-Bb0"/>
+                                    <action selector="calTypeButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="PeI-n1-6FM"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="IUs-KV-aet">
@@ -121,7 +121,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="calTypeButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="CcG-x4-5b6"/>
+                                    <action selector="calNumButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="T3G-TV-l25"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9vJ-eG-WSK">
@@ -139,7 +139,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <action selector="cal:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="o7Y-Ti-uBQ"/>
+                                    <action selector="calTypeButton:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="4c0-Il-Tz1"/>
                                 </connections>
                             </button>
                             <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="rKH-j7-xjn">
